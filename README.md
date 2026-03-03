@@ -37,7 +37,7 @@
 - Brand/Manufacturer: HP
 - Model: ZBook Fury 15 G7
 ### Specification
-- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz (6C + T)**
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz (6C + 12T)**
 - Graphic Processing Unit (GPU): **NVIDIA Quadro RTX 3000**
 - Random Access Memory (RAM): **DDR4 2667MHz 16GB x2**
 - Operating System (OS): **Windows 11**
@@ -71,7 +71,6 @@ Condition: Used and refurbished by my own without any cost.
 - Random Access Memory (RAM): **Kingston Fury Beast DDR4 3600MHz CL16 [16GB x2 = 1430] 8GB x2** - 745
 - Operating System (OS): **Windows 11**
 - Storage: **1TB ssd** - 600
-- Secondary Storage: **ssd**
 - Network Card: **Ugreen AX3000 Wi-Fi 6 2.4G (300Mbps) 3dBi - [External]** - 87
 - Power Supply Unit (PSU): **Deepcool PQ650W Platinum (Seasonic OEM)** - 261
 - CPU Cooler: **Deepcool PQ650W Platinum AK620 AG620V5 CPU Cooler Fan** - 91
