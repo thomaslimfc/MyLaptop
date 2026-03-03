@@ -50,7 +50,22 @@ Condition: Self-Refurbished without any cost.
 
 ## Coming Soon
 
-### Specification (Performance PC)
+### Budget PC - MYR 6.5k
+- Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (10C + 16T) 148W** - 639
+- Graphic Processing Unit (GPU): **NVIDIA RTX3050 (6G) 130W** - 890
+- Motherboard (MB): **Colorful B760M-G WIFI Battle-Ax** - 380
+<!-- Random Access Memory (RAM): **Kingston Fury Beast DDR4 3600MHz CL16 16GB x2** - 1430 -->
+- Random Access Memory (RAM): **Kingston Fury Beast DDR4 3600MHz CL16 8GB x2** - 745
+- Operating System (OS): **Windows 11**
+- Storage: **1TB ssd** - 600
+- Secondary Storage: **ssd**
+- Network Card: **Ugreen AX3000 Wi-Fi 6 2.4G (300Mbps) 3dBi - [External]** - 87
+- Power Supply Unit (PSU): **Deepcool PQ650W Platinum (Seasonic OEM)** - 261
+- CPU Cooler: **Deepcool PQ650W Platinum AK620 AG620V5 CPU Cooler Fan** - 91
+- Casing: **Case** - 200
+- Monitor: **Prism+ X270PRO WQHD 27" 180Hz 1ms 120% sRGB 2K (2560x1440)** - 950
+- 
+### Performance PC - MYR 6.5k
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i7-14700 @ 5.40GHz 219W** - 1279
 - Graphic Processing Unit (GPU): **MSI GeForce RTX 5060 Gaming TRIO OC GPU 155W** - 1699
 - Motherboard (MB): **MSI MAG B760M MORTAR WIFI II** - 791
@@ -60,7 +75,7 @@ Condition: Self-Refurbished without any cost.
 - Secondary Storage: **ssd**
 - Network Card: **Ugreen AX3000 Wi-Fi 6 2.4G (300Mbps) 3dBi - [External]** - 87
 - Power Supply Unit (PSU): **MSI MAG A850GLS** - 382
-- CPU Cooler: **Deepcool AK620 AG620V5 CPU Cooler Fan** - 91
+- CPU Cooler: **Deepcool LS720 SE Digital WH 360** - 242
 - Casing: **Aigo CPU Casing ATX T21 + 6pcs fan** - 121
 - Monitor: **Prism+ X270PRO WQHD 27" 180Hz 1ms 120% sRGB 2K (2560x1440)** - 950
 
