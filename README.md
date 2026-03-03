@@ -50,7 +50,7 @@ Condition: Self-Refurbished without any cost.
 
 ## Coming Soon
 
-### Budget PC - MYR 6.5k
+### Budget PC - MYR 4.0k
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (10C + 16T) 148W** - 639
 - Graphic Processing Unit (GPU): **NVIDIA RTX3050 (6G) 130W** - 890
 - Motherboard (MB): **Colorful B760M-G WIFI Battle-Ax** - 380
@@ -63,7 +63,7 @@ Condition: Self-Refurbished without any cost.
 - CPU Cooler: **Deepcool PQ650W Platinum AK620 AG620V5 CPU Cooler Fan** - 91
 - Casing: **Case** - 200
 - Monitor: **Prism+ X270PRO WQHD 27" 180Hz 1ms 120% sRGB 2K (2560x1440)** - 950
-- 
+  
 ### Performance PC - MYR 6.5k
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i7-14700 @ 5.40GHz 219W** - 1279
 - Graphic Processing Unit (GPU): **MSI GeForce RTX 5060 Gaming TRIO OC GPU 155W** - 1699
