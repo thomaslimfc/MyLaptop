@@ -1,13 +1,21 @@
-# My Workstation Laptop
+# My Machine(s)
+
+## Performance Notebook
 - Brand/Manufacturer: ASUS
 - Sub-brand: TUF Gaming
 - Chassis: F15
 - Model: FX506H
 
-## Specification
+### Specification
 - Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**
 - Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
 - Random Access Memory (RAM): **Kingston Fury Impact DDR4 8GB x2**
+- Operating System (OS): **Windows 11**
+- Storage: **Intel NVMe SSDPEKNU512GZ SSD 500GB**
+- Secondary Storage: **Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB**
+- Network Card: **MediaTek Wi-Fi 6 MT7921 Wireless LAN Card**
+- Display: **Asus Laptop Screen 15.6" 144Hz (1920x1080)**
+- Monitor: **HP M24D FHD Monitor 23.8" 75Hz (1920x1080)**
 
 <table>
   <tr>
@@ -26,17 +34,81 @@
   </tr>
 </table>
 
-<!-- <img src="https://raw.githubusercontent.com/thomaslimfc/thomaslimfc/main/images/intel.png" alt="Intel" width="100px"> -->
-<!-- <img src="https://raw.githubusercontent.com/thomaslimfc/thomaslimfc/main/images/18x50px.png" alt="" height="150px"> -->
-<!-- <img src="https://raw.githubusercontent.com/thomaslimfc/thomaslimfc/main/images/nvidia.png" alt="Nvidia" width="100px"> -->
-<!-- <img src="https://raw.githubusercontent.com/thomaslimfc/thomaslimfc/main/images/18x50px.png" alt="" height="150px"> -->
-<!-- <img src="https://raw.githubusercontent.com/thomaslimfc/thomaslimfc/main/images/kingston.png" alt="Kingston" width="100px"> -->
-<!-- <img src="https://raw.githubusercontent.com/thomaslimfc/thomaslimfc/main/images/18x50px.png" alt="" height="150px"> -->
+## Desktop
 
-## Additional Information
+### Specification
+- Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz**
+- Graphic Processing Unit (GPU): N/A
+- Random Access Memory (RAM): **Kingston Fury Impact DDR4 8GB x2**
 - Operating System (OS): **Windows 11**
 - Storage: **Intel NVMe SSDPEKNU512GZ SSD 500GB**
 - Secondary Storage: **Kingston NV2 M.2 2280 PCIe NVMe Gen4 SNV251000G SSD 1TB**
-- Network Card: **MediaTek Wi-Fi 6 MT7921 Wireless LAN Card**
+- Network Card: **Ugreen AX300 Wi-Fi 6 2.4G (300Mbps) 3dBi [External]**
 - Display: **Asus Laptop Screen 15.6" 144Hz (1920x1080)**
 - Monitor: **HP M24D FHD Monitor 23.8" 75Hz (1920x1080)**
+
+Condition: Self-Refurbished without any cost.
+
+## Coming Soon
+- Network Card: **Ugreen AX3000 Wi-Fi 6 2.4G (300Mbps) 3dBi - [External]**
+<!--
+Ultrabook / Thin‑and‑Light
+Purpose: Portable everyday productivity with long battery life.
+Typical features: Slim chassis, low‑power CPUs (U‑series), integrated graphics, SSD, 12–16 GB RAM, premium build.
+Best for: Frequent travelers, students, office work.
+Premium Consumer / Lifestyle Laptop
+Purpose: High‑quality design and general multimedia use.
+Typical features: Good displays, aluminum chassis, balanced performance (sometimes discrete GPU), good speakers.
+Best for: Consumers who want style + performance (e.g., MacBook Air/Pro class).
+Business Laptop / Corporate Notebook
+Purpose: Secure, durable machines for enterprise use.
+Typical features: vPro options, fingerprint/IR, docking compatibility, robust support/warranties, long lifecycle, spill‑resistant keyboards.
+Best for: Corporate users, IT‑managed fleets.
+Mobile Workstation
+Purpose: Certified performance for professional CAD, 3D, scientific and engineering apps.
+Typical features: Xeon or H‑series CPUs, workstation GPUs (NVIDIA RTX A/Quadro), ECC memory options, ISV certifications.
+Best for: Engineers, architects, professional artists needing validated drivers and reliability.
+Gaming Laptop
+Purpose: High performance for games and heavy graphics workloads.
+Typical features: High‑TDP H‑series CPUs, discrete GeForce RTX/GTX GPUs, high refresh rate displays, advanced cooling.
+Best for: Gamers and creators who need GPU power.
+Creator / Content‑Creation Laptop
+Purpose: Photo/video editing and creative workflows.
+Typical features: Color‑accurate displays (high sRGB/AdobeRGB coverage), strong CPU/GPU, lots of RAM and fast SSDs.
+Best for: Photographers, video editors, designers.
+Developer / Performance Notebook
+Purpose: Fast builds, virtualization, containers, and multitasking for software development.
+Typical features: Multi‑core H‑series CPUs, 16–32+ GB RAM, NVMe SSD, good thermals; GPU optional for ML.
+Best for: Programmers, devops, app builders.
+2‑in‑1 Convertible / Detachable
+Purpose: Tablet + laptop flexibility for note‑taking and presentations.
+Typical features: Touchscreen, stylus support, hinge that folds 360° (convertible) or removable keyboard (detachable).
+Best for: Students, creatives, mobile note‑taking.
+Chromebook
+Purpose: Cloud‑centric, budget‑friendly productivity with ChromeOS.
+Typical features: Lightweight OS, long battery life, affordable hardware, automatic updates.
+Best for: Edu settings, simple web‑based workflows.
+Rugged / Field Laptop
+Purpose: Reliable operation in harsh environments.
+Typical features: MIL‑STD ratings, reinforced chassis, sealed ports, wide temperature tolerance.
+Best for: Field engineers, military, industrial use.
+Desktop Replacement (DTR)
+Purpose: Maximum performance for sustained heavy work at the expense of portability.
+Typical features: Very powerful CPUs/GPUs, large screens, heavy chassis, big batteries and power bricks.
+Best for: Users who need desktop‑class power but some mobility.
+Budget / Entry‑Level Laptop
+Purpose: Affordable basic computing for web, email, and light tasks.
+Typical features: Low‑cost CPUs (Celeron/AMD Athlon/Entry Ryzen), HDD/SSD, 4–8 GB RAM.
+Best for: First laptops, basic home use.
+Netbook / Mini Laptop (largely legacy)
+Purpose: Ultra‑portable, low‑power basic devices (mostly replaced by tablets and Chromebooks).
+Typical features: Small screens, limited performance.
+Best for: Very light, low‑cost portable tasks (now uncommon).
+How to pick the right category
+
+Portability & battery life important → Ultrabook / Thin‑and‑Light.
+Need GPU power for ML or graphics → Gaming, Creator, or Mobile Workstation (depending on certification needs).
+Enterprise security and manageability → Business laptop.
+Work in harsh conditions → Rugged.
+On a tight budget or cloud workflows → Chromebook or Budget laptop.
+If you tell me what tasks you run (compiles, VMs, video editing, CAD, gaming, etc.), budget, and how often you move the laptop, I’ll recommend the best category and minimum specs to look for. -->
