@@ -6,7 +6,7 @@
 - Chassis: F15
 - Model: FX506H
 ### Specification
-- Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz**
+- Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz (6P+0E=6C; 10T)**
 - Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
 - Random Access Memory (RAM): **Kingston Fury Impact DDR4 3200MHz 8GB x2**
 - Operating System (OS): **Windows 11**
@@ -37,7 +37,7 @@
 - Brand/Manufacturer: HP
 - Model: ZBook Fury 15 G7
 ### Specification
-- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz (6C + 12T)**
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz (8P+0E=8C; 16T)**
 - Graphic Processing Unit (GPU): **NVIDIA Quadro RTX 3000**
 - Random Access Memory (RAM): **DDR4 2667MHz 16GB x2**
 - Operating System (OS): **Windows 11**
@@ -49,7 +49,7 @@
 
 ## 3. Desktop (For industrial automation engineering purposes)
 ### Specification
-- Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz**
+- Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz (2P+0E=2C;4T)**
 - Graphic Processing Unit (GPU): N/A
 - Random Access Memory (RAM): **Kingston DDR4 2133MHz 8GB**
 - Operating System (OS): **Windows 11**
@@ -65,7 +65,7 @@ Condition: Used and refurbished by my own without any cost.
 ## 4. Coming Soon
 
 ### Budget PC - MYR 4.0k
-- Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (10C + 16T) 148W** - 639
+- Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (6P+8E=14C; 20T) 148W** - 639
 - Graphic Processing Unit (GPU): **NVIDIA RTX3050 (6G) 130W** - 890
 - Motherboard (MB): **Colorful B760M-G WIFI Battle-Ax** - 380
 - Random Access Memory (RAM): **Kingston Fury Beast DDR4 3600MHz CL16 [16GB x2 = 1430] 8GB x2** - 745
@@ -78,7 +78,7 @@ Condition: Used and refurbished by my own without any cost.
 - Monitor: **Prism+ X270PRO WQHD 27" 180Hz 1ms 120% sRGB 2K (2560x1440)** - 950
   
 ### Performance PC - MYR 6.5k
-- Central Processing Unit (CPU): **14th Gen Intel® Core™ i7-14700 @ 5.40GHz 219W** - 1279
+- Central Processing Unit (CPU): **14th Gen Intel® Core™ i7-14700 @ 5.40Hz (8P+12E=20C; 28T) 219W** - 1279
 - Graphic Processing Unit (GPU): **MSI GeForce RTX 5060 Gaming TRIO OC GPU 155W** - 1699
 - Motherboard (MB): **MSI MAG B760M MORTAR WIFI II** - 791
 - Random Access Memory (RAM): **Kingston Fury Beast DDR5 3200MHz CL36 16GB x2** - 399
