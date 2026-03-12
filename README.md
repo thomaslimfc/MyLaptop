@@ -53,7 +53,7 @@
 - Graphic Processing Unit (GPU): N/A
 - Random Access Memory (RAM): **Kingston DDR4 2133MHz 8GB**
 - Operating System (OS): **Windows 11**
-- Storage: **Toshiba HDD 750GB**
+- Storage: **Western Digital HDD 1TB**
 - Network Card: **Ugreen AX300 Wi-Fi 6 2.4G (300Mbps) 3dBi [External]**
 - Power Supply Unit (PSU): **Cooler Master**
 - CPU Cooler: **Intel CPU Cooler Fan**
