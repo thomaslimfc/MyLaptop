@@ -6,7 +6,7 @@
 - Chassis: F15
 - Model: FX506H
 ### Specification
-- Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz (6P+0E=6C; 10T)**
+- Central Processing Unit (CPU): **11th Gen Intel® Core™ i5-11400H @ 2.70GHz** (6P+0E=6C; 10T)
 - Graphic Processing Unit (GPU): **NVIDIA GeForce RTX 3050 Laptop GPU**
 - Random Access Memory (RAM): **Kingston Fury Impact DDR4 3200MHz 8GB x2**
 - Operating System (OS): **Windows 11**
@@ -37,7 +37,7 @@
 - Brand/Manufacturer: ASUS
 - Model: ZenBook 13 YX325J
 ### Specification
-- Central Processing Unit (CPU): **10th Gen Intel® Core™ i5-1035G1 CPU @ 1.00GHz (4P+0E=4C; 8T)**
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i5-1035G1 CPU @ 1.00GHz** (4P+0E=4C; 8T)
 - Graphic Processing Unit (GPU): N/A
 - Random Access Memory (RAM): **DDR4 3200MHz 4GB x2** (Integrated)
 - Operating System (OS): **Windows 11**
@@ -50,7 +50,7 @@
 - Brand/Manufacturer: HP
 - Model: ZBook Fury 15 G7
 ### Specification
-- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz (8P+0E=8C; 16T)**
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i7-10850H CPU @ 2.70GHz** (8P+0E=8C; 16T)
 - Graphic Processing Unit (GPU): **NVIDIA Quadro RTX 3000**
 - Random Access Memory (RAM): **DDR4 2667MHz 16GB x2**
 - Operating System (OS): **Windows 11**
@@ -62,7 +62,7 @@
 
 ## 4. Desktop (For industrial automation engineering purposes)
 ### Specification
-- Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz (2P+0E=2C; 4T)**
+- Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz** (2P+0E=2C; 4T)
 - Graphic Processing Unit (GPU): N/A
 - Random Access Memory (RAM): **Kingston DDR4 2133MHz 8GB**
 - Operating System (OS): **Windows 11**
