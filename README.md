@@ -44,7 +44,7 @@
 - Storage: **Samsung MZVLQ512HALU-00000 SSD 512GB**
 - Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
 - Display: **Asus Laptop Screen 13.3" 60Hz FHD (1920x1080)**
-- Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
+- Monitor: **HP Compaq LE1711 LCD FHD Monitor 17.0" 60Hz (1280x1024)**
   
 ## 3. Performance Notebook (1st Job)
 - Brand/Manufacturer: HP
