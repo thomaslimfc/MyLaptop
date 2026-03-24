@@ -33,7 +33,20 @@
   </tr>
 </table>
 
-## 2. Performance Notebook (1st Job)
+## 2. Business Notebook
+- Brand/Manufacturer: ASUS
+- Model: ZenBook 13 YX325J
+### Specification
+- Central Processing Unit (CPU): **10th Gen Intel® Core™ i5-1035G1 CPU @ 1.00GHz (4P+0E=4C; 8T)**
+- Graphic Processing Unit (GPU): N/A
+- Random Access Memory (RAM): **DDR4 3200MHz 4GB x2** (Integrated)
+- Operating System (OS): **Windows 11**
+- Storage: **Samsung MZVLQ512HALU-00000 SSD 512GB**
+- Network Card: **Intel® Wi-Fi 6 AX201 160MHz**
+- Display: **Asus Laptop Screen 13.3" 60Hz FHD (1920x1080)**
+- Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
+  
+## 3. Performance Notebook (1st Job)
 - Brand/Manufacturer: HP
 - Model: ZBook Fury 15 G7
 ### Specification
@@ -47,7 +60,7 @@
 - Monitor: **Acer B247Y D Widescreen LCD FHD Monitor 23.8" 75Hz (1920x1080)**
 - Docking Station: **HP Thunderbolt Dock 230W G2 HSN-IX01**
 
-## 3. Desktop (For industrial automation engineering purposes)
+## 4. Desktop (For industrial automation engineering purposes)
 ### Specification
 - Central Processing Unit (CPU): **7th Gen Intel® Core™ i3-7100 CPU @ 3.90GHz (2P+0E=2C; 4T)**
 - Graphic Processing Unit (GPU): N/A
@@ -62,7 +75,7 @@
 
 Condition: Used and refurbished by my own without any cost.
 
-## 4. Coming Soon
+## 5. Coming Soon
 
 ### Budget PC - MYR 4.0k
 - Central Processing Unit (CPU): **14th Gen Intel® Core™ i5-14400F @ 4.70GHz (6P+8E=14C; 20T) 148W** - 639
